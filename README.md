@@ -1,9 +1,7 @@
 
 ### ProtInteract Datasets 
 
-This repo includes the datasets used to develop the ProtInteract framework, a deep learning framework to predict protein-protein interaction.
-
-The datasets used to train the ProtInteract framework for protein-protein interaction can be downloaded from the following link. These datasets are retrieved from the [STRING database][3] for Homo sapiens and Mus musculus organisms and processed for the training the ProtInteract framework.
+The following links can download the datasets used to train the ProtInteract framework for protein-protein interaction. These datasets are retrieved from the [STRING database][3] for Homo sapiens and Mus musculus organisms and processed for the training of the ProtInteract framework.
 
 1- The ["Protein_Sequences"][1] contains amino acid sequences of Homo sapiens and Mus musculus organisms available on the STRING database. 
 
