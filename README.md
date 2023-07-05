@@ -1,7 +1,7 @@
 
-### [ProtInteract](https://www.sciencedirect.com/science/article/pii/S2001037023000296?via%3Dihub) Datasets 
+### ProtInteract Datasets 
 
-The following links can download the datasets used to train the ProtInteract framework for protein-protein interaction. These datasets are retrieved from the [STRING database][1] and processed for the training of the ProtInteract framework.
+The following links can download the datasets used to train the [ProtInteract framework](https://www.sciencedirect.com/science/article/pii/S2001037023000296?via%3Dihub) for protein-protein interaction. These datasets are retrieved from the [STRING database][1] and processed for the training of the ProtInteract framework.
 
 1- The ["Protein_Sequences"][2] contains amino acid sequences of Homo sapiens, Mus musculus, E.coli, S.cerevisiae, D.melanogaster and C.elegans organisms available on the STRING database. 
 
