@@ -1,5 +1,5 @@
 
-### ProtInteract Datasets 
+### [ProtInteract](https://www.sciencedirect.com/science/article/pii/S2001037023000296?via%3Dihub) Datasets 
 
 The following links can download the datasets used to train the ProtInteract framework for protein-protein interaction. These datasets are retrieved from the [STRING database][1] for Homo sapiens and Mus musculus organisms and processed for the training of the ProtInteract framework.
 
