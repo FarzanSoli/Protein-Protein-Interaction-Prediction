@@ -11,8 +11,8 @@ The following links can download the datasets used to train the ProtInteract fra
 
 [1]: https://string-db.org/cgi/download?sessionId=bJBREVNlU0b2
 
-[2]: https://uottawa-my.sharepoint.com/personal/fsole078_uottawa_ca/_layouts/15/guestaccess.aspx?share=EV7W_9OgSVlCrlouTpbvh9YB5dMvsPIfyO6GmoIeiHVK7g&email=drericpaquet%40gmail.com&e=sHJagG
+[2]: https://uottawa-my.sharepoint.com/personal/fsole078_uottawa_ca/_layouts/15/guestaccess.aspx?docid=0d3ffd65e49a04259ae5a2e4e96ef87d6&authkey=AQTpiIB0l1M9JoPtHIrXNGM&e=j5nhev
 
-[3]: https://uottawa-my.sharepoint.com/personal/fsole078_uottawa_ca/_layouts/15/guestaccess.aspx?share=EXOkxJzRSqBFp2i5FpoutNUBo3Hdjah--yQGBvMvNg8e6g&email=drericpaquet%40gmail.com&e=BGHiWJ
+[3]: https://uottawa-my.sharepoint.com/personal/fsole078_uottawa_ca/_layouts/15/guestaccess.aspx?docid=09cc4a4734ad145a0a768b9169a2eb4d5&authkey=AUJ-1i3A4SF5QWvoFf9F7pc&e=wUs7sW
 
 [4]: https://uottawa-my.sharepoint.com/personal/fsole078_uottawa_ca/_layouts/15/guestaccess.aspx?docid=0de7633725541482192b2b2f397e14418&authkey=AefFpc6dRwI0nswW9O6zar4&e=HRaGac
