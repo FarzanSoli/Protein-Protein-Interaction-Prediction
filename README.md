@@ -37,7 +37,7 @@ The following links can download the datasets used to train the [ProtInteract fr
 The processed datasets for this work is available [here][5]. This dataset contains protein interactions under three scenarios, 2-classes, 3-classes and 5-classes.
 
 
-
+In order to build the Dataprocessing image and process the imported data, use following commands:
 
 
 ```
@@ -47,8 +47,6 @@ docker build --no-cache -f Dockerfile -t data_processing .
 ```
 docker run --rm -it data_processing
 ```
-
-
 
 
 

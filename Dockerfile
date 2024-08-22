@@ -25,8 +25,7 @@ RUN python -m pip install --upgrade pip setuptools wheel && \
     pip install --no-cache-dir -r /app/requirements.txt
 
 # Copy the entire Code and Dataset folders
-COPY . ./Code
-COPY . ./Dataset
+COPY Dataset ./Dataset
 
 # Optional: Use a non-root user for security
 RUN useradd -m appuser && chown -R appuser /app
