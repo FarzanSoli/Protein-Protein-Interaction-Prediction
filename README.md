@@ -36,6 +36,22 @@ The following links can download the datasets used to train the [ProtInteract fr
 
 The processed datasets for this work is available [here][5]. This dataset contains protein interactions under three scenarios, 2-classes, 3-classes and 5-classes.
 
+
+
+
+
+```
+docker build --no-cache -f Dockerfile -t data_processing .
+```
+
+```
+docker run --rm -it data_processing
+```
+
+
+
+
+
 [1]: https://string-db.org/cgi/download?sessionId=bJBREVNlU0b2
 
 [2]: https://uottawa-my.sharepoint.com/personal/fsole078_uottawa_ca/_layouts/15/guestaccess.aspx?docid=0d3ffd65e49a04259ae5a2e4e96ef87d6&authkey=AQTpiIB0l1M9JoPtHIrXNGM&e=j5nhev
