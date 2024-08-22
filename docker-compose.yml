@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  protinteract:
+    image: protinteract
+    build:
+      context: .
+      dockerfile: ./Dockerfile
